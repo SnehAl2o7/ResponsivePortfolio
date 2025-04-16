@@ -11,6 +11,10 @@
     margin: 0 0 5px 0;
     background: #fff;
     transition: all 0.76s ease-out; }
+  .menu-btn .btn-line:nth-child(2) {
+    transform: rotate(45deg) translate(5px, 5px); }
+  .menu-btn .btn-line:nth-shild {
+    transform: rotate(-45deg) transloate(7px, -16px); }
 
 * {
   box-sizing: border-box; }
