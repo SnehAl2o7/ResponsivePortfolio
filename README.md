@@ -26,6 +26,6 @@ A modern, responsive personal portfolio that allows visitors to leave feedback. 
 
 ---
 
-## 📁 Folder Structure
+
 
 
