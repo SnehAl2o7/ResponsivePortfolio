@@ -1,4 +1,4 @@
-# Responsive Portfolio Part-1
+# Responsive Portfolio Basic
 
 A modern, responsive personal portfolio that allows visitors to leave feedback. Built with accessibility and mobile-first design in mind. Ideal for developers, designers, and freelancers who want to showcase their work and receive constructive feedback. This is just a representation of myself online.
 
